@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0D092B",
+            "lang-select-color": "#222829",
+            "bg-light": "#0D092B",
+            "welcome-bonus-bg": "#0D092B",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#17104e",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#CE0921",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#CE0921",
+            "yellow-button": "#1D3375",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#0D092B",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#0D092B",
+            "faq-label": "#0D092B",
+            "bg-footer": "#0D092B",
+            "copyright": "#e7e7d5",
+            "starColor": "#CE0921",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3444"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3445",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Bloody Slots Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3446",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Bloody Slots"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Bloody Slots",
+                    "title": "Bloody Slots — UK Online Casino | £3,500 Bonus + 450 FS",
+                    "description": "Play at Bloody Slots — UK's horror-themed online casino. Claim 200% bonus up to £3,500 + 450 free spins. 38+ providers. Join now!\n",
+                    "canonical": "casinobloodyslots-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3447",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinobloodyslots-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3448"
+                },
+                "hero": {
+                    "title": "UK's Most Thrilling Horror Casino Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3449",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3450",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a licensed online casino in the UK? At Bloody Slots, we combine horror-themed gaming with certified fair play, instant GBP deposits, and a three-part welcome package up to £3,500. Here's why UK players choose us:\n",
+                    "items": [
+                        "Licensed under Curaçao eGaming with eCOGRA-standard fair play certification",
+                        "4000+ horror-themed slots from Pragmatic Play, NetEnt, Play'n GO, Evolution",
+                        "Triple welcome package: £3,500 bonus + 450 free spins across 3 deposits",
+                        "10% daily cashback up to £10,000 — zero wagering requirements",
+                        "19 payment methods: Visa, Skrill, Neteller, crypto & Apple Pay in GBP",
+                        "24\/7 live chat support for UK players, withdrawals in 1-3 banking days"
+                    ],
+                    "advantagesAfterText": "Join thousands of UK players enjoying award-worthy horror-themed gaming secured by SSL 256-bit encryption. Our dedicated support team is available around the clock to assist you in English.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Bloody Slots App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3451",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Bloody Slots App",
+                    "mobileGooglePlayImageTitle": "Bloody Slots App",
+                    "mobileIosImageTitle": "Bloody Slots App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Bloody Slots Casino",
+                        "description1": "We are a UK-focused casino delivering unique horror-themed gaming under Curaçao eGaming licensing. Our platform hosts 4000+ certified games from 38+ providers, built for British players seeking bold entertainment.\n",
+                        "items": [
+                            "Launched with 4000+ horror-themed certified slot titles",
+                            "Integrated 38+ providers including Evolution Gaming live studios",
+                            "Achieved Curaçao eGaming licensing for UK player protection",
+                            "Introduced £1,660,000 network tournament prize pools"
+                        ],
+                        "description2": "We operate under Curaçao eGaming license with SSL 256-bit encryption protecting all UK transactions. Every game runs on certified RNG software tested by independent auditors for fair and transparent outcomes.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3452",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue expanding our horror-themed portfolio for UK players, with new titles added weekly. Our responsible gaming tools, including deposit limits and self-exclusion, keep British players safe. Join us and explore the UK's most thrilling casino!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Game Portfolio for UK Players",
+                        "description": "<h2>Complete Horror-Themed Game Portfolio for UK Players<\/h2>\n\n<p>At Bloody Slots, we have built one of the most comprehensive and distinctive gaming libraries available to UK players today. Our platform features over 4,000 licensed titles spanning horror-themed slots, classic table games, immersive live dealer experiences, and high-stakes progressive jackpots. Every game in our collection is sourced from 38+ verified software providers — including industry leaders Pragmatic Play, NetEnt, Play'n GO, Evolution Gaming, and Microgaming — ensuring certified RNG outcomes and independently audited RTP values on every spin. Whether you are a casual British player hunting free spins or a high roller seeking VIP live tables, our gaming hub delivers the variety, quality, and transparency that modern UK players deserve.<\/p>\n\n<h3>Horror-Themed Slots: 4000+ Titles at Your Fingertips<\/h3>\n\n<p>Our slots collection is the beating heart of Bloody Slots, and it is unlike anything else available on the UK online casino market. We offer more than 4,000 horror-themed and premium slot machines, spanning categories from classic 3-reel fruit machines to cutting-edge video slots with Megaways mechanics, cluster pays, and cascading reels. Popular titles include fan-favourite horror-themed games alongside blockbusters from Pragmatic Play such as Gates of Olympus (RTP 96.50%), Sweet Bonanza (RTP 96.51%), and The Dog House (RTP 96.51%), as well as iconic releases from NetEnt like Starburst (RTP 96.09%) and Dead or Alive 2 (RTP 96.82%). Play'n GO delivers further thrills with Book of Dead (RTP 96.21%) and Reactoonz (RTP 96.51%). All slots are playable in GBP, with betting ranges starting from just £0.10 per spin, making them accessible for every type of UK player.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Hundreds of Megaways-enabled titles featuring up to 117,649 ways to win on a single spin. Top picks include Bonanza Megaways (RTP 96%), Extra Chilli Megaways (RTP 96.26%), and Primal Megaways (RTP 96.52%) — all certified by independent testing labs for fair RNG outcomes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Slots:<\/strong> A dedicated Bonus Buy category lets UK players directly access bonus rounds without waiting, including Pragmatic Play's Big Bass Splash Bonus Buy (RTP 96.71%) and many others. Minimum bonus buy starts at £1.00, maximums reach £15,000 per purchase.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Our jackpot section features network-linked progressives with prize pools often exceeding £1,000,000. Titles include Mega Moolah by Microgaming — the world's most celebrated progressive jackpot — and Divine Fortune by NetEnt, offering three tiers of jackpot prizes with guaranteed seed values.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Horror-Exclusive Titles:<\/strong> We curate a dedicated horror section for UK players who crave atmosphere and tension alongside their winnings. Games like Zombie Hoard, Blood Suckers II (RTP 96.94%), and Frankenstein bring cinematic horror visuals together with high-volatility gameplay mechanics and above-average RTP percentages.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>New Releases:<\/strong> Our game portfolio refreshes weekly, with new certified titles added directly from provider launch pipelines. UK players at Bloody Slots gain access to new slot releases on day one, ahead of many competing British casino platforms.<\/li>\n<\/ul>\n\n<h3>Live Casino: Immersive Dealer Experiences for British Players<\/h3>\n\n<p>Our live casino section brings the atmosphere of a real casino floor directly to UK players, streamed in high-definition from professional Evolution Gaming and Pragmatic Play Live studios. We offer over 200 live dealer tables covering every category a British player could want — from classic European Roulette and Blackjack to innovative game shows and exclusive VIP rooms. All tables operate in real time with professional English-speaking dealers, delivering an authentic and transparent gaming environment with full SSL 256-bit encryption on every session.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Roulette (RTP 97.30%), American Roulette (RTP 94.74%), French Roulette with La Partage rule (RTP 98.65%), Speed Roulette for fast-action gameplay, and Lightning Roulette with random multipliers up to 500x. Betting limits accommodate UK players from £0.20 to £10,000 per round.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Infinite Blackjack with unlimited player seats, Classic Blackjack (RTP 99.56%), Lightning Blackjack with random multipliers, and dedicated VIP Blackjack tables with stakes reaching £5,000 per hand. All tables feature professional English-speaking dealers with side bet options including Perfect Pairs and 21+3.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat completing rounds in under 30 seconds, Baccarat Squeeze with theatrical card reveals, and No Commission Baccarat. VIP Baccarat rooms available for UK high rollers with table limits up to £10,000 per hand.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time with bonus rounds delivering up to 20,000x maximum wins, Monopoly Live combining classic board game mechanics with real-money prizes, Mega Ball offering bingo-lottery hybrid gameplay, and Deal or No Deal Live. These entertainment-driven formats attract millions of UK players monthly and are exclusive to premium live casino platforms.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker:<\/strong> Three Card Poker, Casino Hold'em (RTP 97.84%), Caribbean Stud Poker with a progressive jackpot seeded from £10,000, and Texas Hold'em Bonus. All poker variants feature professional dealers guiding UK players through every hand with English commentary.<\/li>\n<\/ul>\n\n<h3>What Table Games Do We Offer Beyond Live Casino?<\/h3>\n\n<p>Beyond our live dealer studios, we provide a full suite of RNG-powered table games for UK players who prefer instant-play flexibility. Our table games section covers all major categories with multiple variants per game type, ensuring every session offers genuine strategic depth and competitive RTP values certified by independent testing authorities.<\/p>\n\n<p>Our RNG table game collection includes Classic Blackjack, European Blackjack, and Multi-Hand Blackjack with up to 5 hands simultaneously — all featuring RTP values above 99%. Roulette variants include European, American, and French editions. We also provide Video Poker titles such as Jacks or Better (RTP 99.54%), Deuces Wild (RTP 100.76%), and Double Double Bonus Poker. British players can access all table games directly from desktop browsers or mobile devices without any download required, with GBP stakes accommodating both casual and serious gamblers.<\/p>\n\n<h3>Sports Betting & eSports at Bloody Slots<\/h3>\n\n<p>We go further than a standard UK online casino by integrating a comprehensive sportsbook section alongside our casino offering. UK players can place pre-match and live in-play bets across all major British and international sporting events, including Premier League football, Six Nations rugby, Formula 1, tennis Grand Slams, and boxing. Our sportsbook offers competitive odds, same-game multis, and cash-out functionality on live events. Additionally, our eSports section covers popular competitive titles including CS2, League of Legends, Dota 2, and Valorant — appealing to a new generation of British online bettors who want casino gaming and sports wagering under one roof.<\/p>\n\n<h3>Network Tournaments with £1,660,000 Prize Pools<\/h3>\n\n<p>Competitive players at Bloody Slots have access to our Big Adventures Network Tournament series — one of the largest regular tournament structures in the UK online casino space, featuring a total prize pool exceeding £1,660,000. Participation is open through selected slot and table game titles, with leaderboard rankings updated in real time so UK players can track their standing throughout each event. Furthermore, we run weekly in-house slot tournaments with separate prize pools, available to all registered UK players from their first qualifying deposit. Our tournament ecosystem adds a competitive dimension to every gaming session, rewarding consistency, volume, and skill across the full spectrum of our 4,000+ game library.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Big Adventures Network Tournament:<\/strong> Total prize pool of £1,660,000 distributed across multiple leaderboard tiers. Open to all UK players through selected games, with no additional entry fee required beyond standard gameplay.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Slot Tournaments:<\/strong> Regular in-house competitions running across our horror-themed and premium slot categories. Prizes distributed to top-ranked players each week, with minimum qualifying bets starting at £0.10 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Monthly High-Roller Events:<\/strong> Exclusive tournament brackets for UK VIP players, featuring elevated prize pools and accelerated leaderboard scoring multipliers. Participation automatically unlocks at higher Rakeback VIP Club tiers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Seasonal Special Events:<\/strong> Themed tournament campaigns tied to major British calendar events, with custom prize structures and exclusive horror-themed promotional rewards available only during the event period.<\/li>\n<\/ul>\n\n<h3>Mobile Gaming for UK Players<\/h3>\n\n<p>Every game in our 4,000+ collection is fully optimised for mobile play, delivering the same horror-themed casino experience on smartphones and tablets as on desktop — no download required. Our mobile-responsive platform works seamlessly across all major devices including iPhone (iOS 14+), Samsung Galaxy, and other Android handsets, with instant loading via modern HTML5 technology. UK players can access live dealer tables, slots, and our sports betting section from any location across Britain, with all transactions and gameplay protected by SSL 256-bit encryption on mobile networks. Moreover, our mobile interface maintains full GBP banking functionality, allowing British players to deposit, withdraw, and manage their accounts entirely from their mobile browser with the same speed and security as desktop.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Bonuses & Banking for UK Players",
+                        "description": "<h2>Bonuses, Promotions & Banking Methods for UK Players<\/h2>\n\n<p>At Bloody Slots, we have designed a reward ecosystem that stands out in the UK online casino market through its sheer generosity, transparency, and player-first structure. Our welcome package reaches up to £3,500 in bonus funds plus 450 free spins across your first three deposits — one of the most competitive multi-deposit offers available to British players. Beyond the welcome stage, our 10% daily cashback system, network tournament prizes, and Rakeback VIP Club deliver ongoing value that rewards loyal UK players week after week. All bonuses operate with clearly stated terms, including our industry-competitive 20x wagering requirement applying only to bonus funds — not to your deposit. Banking is equally streamlined, supporting 19 payment methods with GBP transactions, instant deposits, and cryptocurrency options for British players who prefer digital asset privacy.<\/p>\n\n<h3>Triple Welcome Package: Up to £3,500 + 450 Free Spins<\/h3>\n\n<p>Our welcome package spreads across your first three qualifying deposits, giving UK players multiple opportunities to boost their starting bankroll with generous matched bonuses and wager-free free spins. Each stage of the welcome offer requires a minimum deposit of £20 and delivers a 200% match bonus, meaning your first three deposits are tripled in value. Free spins awarded are wager-free across all promotional campaigns, a rare benefit in the UK online casino market. Wagering applies only to the bonus portion at 20x — a significantly lower requirement than the industry standard of 35-40x seen at many competing UK platforms. All three bonus stages come with a seven-day validity window to complete wagering.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>First Deposit Bonus — 200% + 100 Free Spins:<\/strong> Match your first deposit at 200% up to £1,000, plus receive 100 wager-free free spins. Minimum deposit £20. Wagering requirement 20x on bonus funds only. Spins valid 7 days. Spins activated on selected horror-themed slot titles. Bonus credited automatically within minutes of qualifying deposit.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Second Deposit Bonus — 200% + 150 Free Spins:<\/strong> Your second qualifying deposit triggers a 200% match bonus up to £1,000 plus 150 additional free spins (£0.10 per spin). Northern Temple slot content is the primary target for second-deposit spins. All spins remain wager-free, making them immediately withdrawable once credited to your balance.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Third Deposit Bonus — 200% + 200 Free Spins:<\/strong> The final welcome stage delivers a 200% bonus up to £500 plus the maximum spin allocation of 200 free spins targeting Wonder Farm Bonus Buy content. All third-deposit spins are wager-free and valued at £0.10 each. Total welcome package value reaches £3,500 in bonuses plus 450 wager-free spins for British players completing all three stages.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wagering Terms Summary:<\/strong> 20x wagering applies exclusively to bonus funds, not your deposit amount. Slots contribute 100% to wagering. All three bonus stages must be completed within 7 days of activation. There is no maximum win cap applied to bonus play at Bloody Slots — an important advantage for UK players used to restrictive bonus ceilings.<\/li>\n<\/ul>\n\n<h3>10% Daily Cashback: Ongoing Value for UK Players<\/h3>\n\n<p>Our daily cashback programme is one of the most generous ongoing promotions available at any UK-accessible online casino. Every day, we return 10% of your net slot losses directly to your account, with a maximum cashback value of £10,000 per day. Critically, this cashback carries zero wagering requirements — meaning every penny credited to your account is immediately withdrawable without conditions. UK players experiencing a losing session receive automatic compensation credited by the following morning, providing a genuine financial safety net that makes Bloody Slots a sustainable long-term gaming platform for British players of all bankroll levels.<\/p>\n\n<h3>Rakeback VIP Club & Refer a Friend Programme<\/h3>\n\n<p>Our Rakeback VIP Club rewards consistent UK players with a progressive loyalty structure tied directly to gameplay volume. As you wager across our 4,000+ game collection, you accumulate Rakeback points that convert into real cash at increasing rates depending on your VIP tier. Higher tiers unlock exclusive perks including dedicated account managers, faster withdrawal processing, access to monthly high-roller tournaments, and personalised bonus offers tailored to your gameplay preferences. Additionally, our Refer a Friend programme pays £50 in real cash for every new UK player you successfully refer to Bloody Slots — with no cap on referral earnings, making it an attractive secondary income stream for active British players.<\/p>\n\n<h3>Payment Methods Available to UK Players<\/h3>\n\n<p>We support 19 verified payment methods for UK players, covering every major category from traditional bank cards and e-wallets to modern cryptocurrency options and British-favourite digital banking apps. All transactions process in GBP without currency conversion fees, ensuring British players receive exactly what they deposit and withdraw. Our minimum deposit is £20 across all standard methods, with cryptocurrency deposits accepted up to £999,999 for high-volume UK players. The table below outlines our key payment options:<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #8b0000;\">\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Speed<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">£20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">£20<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">£20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Bitcoin \/ ETH<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">~10 min<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">£20<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Apple \/ Google Pay<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">£20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Revolut \/ Monzo<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">£20<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">1-3 days<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">£20<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Withdrawal Processing for UK Players<\/h3>\n\n<p>Withdrawals at Bloody Slots are processed within 1 to 3 banking days, with a minimum withdrawal amount of £250 per transaction. UK players can withdraw up to £500 per transaction, £1,000 per day, and £7,000 per month via standard methods. Cryptocurrency withdrawals benefit from higher limits — up to £999,999 per transaction — making Bloody Slots one of the most crypto-friendly UK-accessible online casinos available. All withdrawals are subject to standard KYC verification on first withdrawal, including proof of identity and address documentation, in line with responsible gaming best practices for British players. Our support team guides UK players through the verification process via live chat 24\/7 to ensure withdrawals process without unnecessary delays.<\/p>\n\n<h3>Responsible Gaming Tools for UK Players<\/h3>\n\n<p>We are committed to providing UK players with a safe, responsible gaming environment. Our platform includes a comprehensive suite of responsible gaming tools that give British players full control over their spending and session duration. Deposit limits allow UK players to cap daily, weekly, or monthly deposits at any amount of their choosing. Loss limits and wager limits add further layers of financial control. Our self-exclusion tool allows UK players to temporarily or permanently close their Bloody Slots account at any time via the account settings panel, with immediate effect. We additionally provide direct links to UK responsible gaming resources including GamCare, BeGambleAware, and Gambling Therapy — organisations offering free confidential support to British players who may need help managing their gaming habits. All responsible gaming features are available around the clock and can be activated instantly without requiring contact with our support team.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit Limits:<\/strong> Set daily, weekly, or monthly caps on deposits from your account panel. Decreases apply immediately; increases take 24 hours to activate as a safety measure for UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Checks:<\/strong> Optional session time notifications remind UK players of how long they have been playing, delivered at custom intervals set by the player.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion:<\/strong> Temporary exclusions from 24 hours to 6 months, or permanent account closure, available instantly from your profile settings without requiring customer support contact.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>UK Support Organisations:<\/strong> Direct links to GamCare (gamcare.org.uk), BeGambleAware (begambleaware.org), and Gambling Therapy embedded in the responsible gaming section of our platform for immediate access by any British player who needs assistance.<\/li>\n<\/ul>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim my welcome bonus at Bloody Slots?",
+                            "answer": "Register your account, deposit at least £20 via any supported UK method, and your 200% bonus up to £1,000 plus 100 wager-free spins credit automatically within minutes. Wagering is 20x on bonus funds only within 7 days. Our 24\/7 live chat team assists with activation anytime.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for UK players?",
+                            "answer": "We accept 19 payment methods in GBP including Visa, Mastercard, Skrill, Neteller, Apple Pay, Google Pay, Revolut, Monzo, Bank Transfer, and major cryptocurrencies (Bitcoin, Ethereum, Litecoin, USDT). All deposits are instant with a £20 minimum. Crypto deposits accepted up to £999,999.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at Bloody Slots UK?",
+                            "answer": "Withdrawals at Bloody Slots process within 1-3 banking days. Minimum withdrawal is £250 per transaction, maximum £1,000 per day and £7,000 per month. Cryptocurrency withdrawals are processed faster with higher limits. Complete KYC verification first to avoid any processing delays.\n"
+                        },
+                        {
+                            "title": "Is Bloody Slots casino safe and licensed for real money?",
+                            "answer": "Yes, Bloody Slots operates under Curaçao eGaming licensing with SSL 256-bit encryption protecting all UK transactions and personal data. All games use certified RNG software audited by independent testing laboratories. Responsible gaming tools including self-exclusion are available to all UK players.\n"
+                        },
+                        {
+                            "title": "What is the wagering requirement on Bloody Slots bonuses?",
+                            "answer": "Our wagering requirement is 20x, applied only to bonus funds — not your deposit. This is significantly lower than the UK industry standard of 35-40x. All free spins awarded in our welcome package are fully wager-free. Complete wagering within 7 days of bonus activation using eligible slots.\n"
+                        },
+                        {
+                            "title": "Can I play Bloody Slots casino on my mobile phone?",
+                            "answer": "Yes, all 4,000+ games at Bloody Slots are fully optimised for mobile via HTML5 technology — no app download needed. Play slots, live casino, and sports betting on iPhone, Android, or tablet. All mobile transactions in GBP are protected by SSL 256-bit encryption across UK networks.\n"
+                        },
+                        {
+                            "title": "Does Bloody Slots offer a cashback bonus for UK players?",
+                            "answer": "We offer 10% daily cashback on slot losses with zero wagering requirements, up to a maximum of £10,000 per day. Cashback is credited automatically each morning based on your previous day's net losses. There are no conditions or restrictions — the full cashback amount is immediately withdrawable.\n"
+                        },
+                        {
+                            "title": "How do I contact customer support at Bloody Slots?",
+                            "answer": "Our customer support team is available 24\/7 for UK players via live chat directly on the Bloody Slots website. Support is provided in English with average response times under 2 minutes on live chat. Email support is also available for account queries, document submissions, and withdrawal assistance.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
